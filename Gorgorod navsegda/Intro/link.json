@@ -1,6 +1,10 @@
-[{"music":"https://kth-studio.github.io/Norimyxxxo/Горгород%20навсегда/Интро/music.mp3",
-"image":"https://kth-studio.github.io/Norimyxxxo/Горгород%20навсегда/image.jpg",
-"next":"https://kth-studio.github.io/Norimyxxxo/Горгород%20навсегда/Невесомость/link.json",
+[{"music":"https://kth-studio.github.io/Norimyxxxo/Gorgorod%20navsegda/Intro/music.mp3",
+"image":"https://kth-studio.github.io/Norimyxxxo/Gorgorod%20navsegda/image.jpg",
+"next":"https://kth-studio.github.io/Norimyxxxo/Gorgorod%20navsegda/Nevesomost/link.json",
 "artist":"Norimyxxxo",
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Norimyxxxo\",\"image\":\"https://kth-studio.github.io/Norimyxxxo/image.jpg\",\"link\":\"https://kth-studio.github.io/Norimyxxxo/link.json\"}]",
+"album":"Горгород навсегда",
+"album_uri":"https://kth-studio.github.io/Norimyxxxo/Gorgorod%20navsegda/link.json",
 "name":"Интро",
+"explicit":"no",
 "text":"[{\"text\":\"Доброе утро, Горгород! Мы отмечаем ежегодный праздник единства нашего города, ровно восемь лет назад произошла неудачная попытка захвата власти в секте заговорщиков. Наш мэр сумел подавить бунт, но группа его участников успела покинуть город и избежать правосудия. Народ Горгорода должен помнить, что наша сила в сплоченности, когда мы вместе - нас не победить! Погода сегодня хорошая, осадков не ожидается, на западном фронте без перемен.\n\n\",\"written\":\"Михаил Соколов\"}]"}]
